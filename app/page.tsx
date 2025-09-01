@@ -1,4 +1,5 @@
 import Image from "next/image";
+import TypewriterText from "./components";
 
 export default function Home() {
   return (
