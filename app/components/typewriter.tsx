@@ -6,10 +6,10 @@ export default function TypewriterText() {
     return (
         <div className="text-center mt-10 text-2xl font-bold">
         <Typewriter
-            words={["Welcome to Our Website", "Explore Our Features", "Join Our Community"]}
-            loop={0}          
+            words={["Welcome to UVSA!"]}
+            loop={1}          
             cursor
-            cursorStyle="|"
+            cursorStyle=""
             typeSpeed={70}
             deleteSpeed={50}
             delaySpeed={1000}
